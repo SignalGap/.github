@@ -1,6 +1,6 @@
 ## Signal Gap
 
-Gear, tees, mugs & more for [AmateurRadio](https://github.com/topics/amateur-radio) ([HAM Radio](https://github.com/topics/ham-radio)), [VHF](https://github.com/topics/vhf), [UHF](https://github.com/topics/uhf), [GMRS](https://github.com/topics/gmrs), [MURS](https://github.com/topics/murs), [FRS](https://github.com/topics/frs), [PMR](https://github.com/topics/pmr), [LoRa](https://github.com/topics/lora), [CB](https://github.com/topics/cb), [Meshtastic](https://github.com/topics/meshtastic), and [MeshCore](https://github.com/topics/meshcore) enthusiasts!
+Gear, tees, mugs & more for [Amateur Radio](https://github.com/topics/amateur-radio) ([HAM Radio](https://github.com/topics/ham-radio)), [VHF](https://github.com/topics/vhf), [UHF](https://github.com/topics/uhf), [GMRS](https://github.com/topics/gmrs), [MURS](https://github.com/topics/murs), [CB](https://github.com/topics/cb), [FRS](https://github.com/topics/frs), [PMR](https://github.com/topics/pmr), [LoRa](https://github.com/topics/lora), [Meshtastic](https://github.com/topics/meshtastic), and [MeshCore](https://github.com/topics/meshcore) enthusiasts!
 
 <!--
 
